@@ -1,0 +1,5 @@
+{
+  "name": "InsightHub - BI Dashboard",
+  "description": "InsightHub is a dynamic BI dashboard creator that allows users to upload Excel/CSV files, visualize data with various chart types, arrange them on an interactive dashboard, get AI-powered insights, and export the final dashboard as a PDF or image.",
+  "requestFramePermissions": []
+}
